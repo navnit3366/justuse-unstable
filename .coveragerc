@@ -1,0 +1,13 @@
+
+[report]
+ignore_errors = True
+
+[run]
+omit =
+    tests/*
+    tests/.*
+    tests/mass/*
+    *_test
+    .*
+
+
